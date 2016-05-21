@@ -3,9 +3,6 @@ ngMovieStub
 
 Online Movie tickets booking via Angularjs - A Hands on tutorial.
 
-* Tutorial http://thejackalofjavascript.com/angularjs-hands-tutorial/
-* Demo http://moviestub.cloudno.de/
-
 Steps to Install
 ----------------
 
