@@ -1,7 +1,5 @@
-ngMovieStub
+Proyecto Comunicaciones
 ===========
-
-Online Movie tickets booking via Angularjs - A Hands on tutorial.
 
 Steps to Install
 ----------------
